@@ -1,4 +1,4 @@
-# ChartJsCovid19Project
+# ChartJs and Covid19 Project
 
 ![alt text](chartJsDashboardImage.png)
 ![alt text](chartJsDashboardImage2.png)
